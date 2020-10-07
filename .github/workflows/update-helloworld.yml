@@ -9,8 +9,8 @@
 name: Update-helloworld
 
 on:
-  schedule:
-    - cron: 35 19 * * *
+# schedule:
+# - cron: 35 19 * * *
 
 jobs:
 
